@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PluginConfig>
+  <iconCalendar>
+    <fancy_icons_IconCalendar/>
+    <fancy_icons_IconCalendar4/>
+    <fancy_icons_IconCalendar2/>
+  </iconCalendar>
+  <iconClock>
+    <fancy_icons_IconClock/>
+  </iconClock>
+  <iconWeather>
+    <fancy_icons_IconWeather2/>
+  </iconWeather>
+  <lockscreen/>
+  <desktopClock/>
+  <desktopWallpaper/>
+</PluginConfig>
