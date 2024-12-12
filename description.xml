@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><theme>
-<version><![CDATA[1.0]]></version>
+<version><![CDATA[2024.04.30]]></version>
 <uiVersion><![CDATA[15]]></uiVersion>
-<author><![CDATA[NinjaOnSteroids]]></author>
-<designer><![CDATA[Divith S]]></designer>
-<title><![CDATA[NINJA UI]]></title>
-<description><![CDATA[Designed By NinjA ( @ninjaonsteroids ) ]]></description>
+<author><![CDATA[GROOT UI]]></author>
+<designer><![CDATA[GROOT UI]]></designer>
+<title><![CDATA[NinjA OS]]></title>
+<description><![CDATA[GROOT UI]]></description>
 <authors>
-<author locale="en_US"><![CDATA[NinjaOnSteroids]]></author>
+<author locale="en_US"><![CDATA[NinjA ]]></author>
 </authors>
 <designers>
-<designer locale="en_US"><![CDATA[Divith S]]></designer>
+<designer locale="en_US"><![CDATA[NinjA ]]></designer>
 </designers>
 <titles>
-<title locale="en_US"><![CDATA[NINJA UI]]></title>
+<title locale="en_US"><![CDATA[NinjA OS]]></title>
 </titles>
 <descriptions>
-<description locale="en_US"><![CDATA[NinjA]]></description>
+<description locale="en_US"><![CDATA[GROOT UI]]></description>
 </descriptions>
 </theme>
