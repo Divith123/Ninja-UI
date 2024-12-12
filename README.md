@@ -65,7 +65,7 @@ The **Ninja-UI** theme and **Ninja FT** font are available for download on the [
 
 ## Author
 
-**Divith123**  
+**Ninjaonsteroids - Divith S**  
 A verified Xiaomi Theme Designer and Font Creator.  
 
 - **Theme Designer:** Xiaomi Verified  
